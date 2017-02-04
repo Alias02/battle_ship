@@ -1,3 +1,4 @@
+# Hello Anderson
 def verify(x):
 	result = 0
 	if x[0] == 'a' or x[0] == 'b' or x[0] == 'c' or x[0] == 'd' or x[0] == 'e' or x[0] == 'f' or x[0] == 'g':
